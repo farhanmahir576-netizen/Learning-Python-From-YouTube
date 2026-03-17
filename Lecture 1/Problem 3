@@ -1,0 +1,5 @@
+# A program to input two floating point numbers and print their average.
+
+p = float(input("First Number: "))
+q = float(input("Second Number: "))
+print("avg = ", (p+q)/2)

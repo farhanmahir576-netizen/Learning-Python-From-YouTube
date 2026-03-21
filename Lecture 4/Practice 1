@@ -1,4 +1,4 @@
-#1 A program to store following word meanings in a Python dictionary
+# A program to store following word meanings in a Python dictionary
 
 dictionary = {
 "cat" : "a small animal",

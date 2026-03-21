@@ -1,4 +1,4 @@
-#3 A program to enter marks of three subjects from the user and store them in a dictionary
+# A program to enter marks of three subjects from the user and store them in a dictionary
 
 marks = {}
 

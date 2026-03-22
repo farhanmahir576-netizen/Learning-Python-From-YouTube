@@ -1,4 +1,4 @@
-# A program to print the length of a list
+# A function to print the length of a list
 
 cities = ["Dhaka", "Chittagong", "Narayanganj", "Khulna"]
 

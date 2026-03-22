@@ -1,0 +1,12 @@
+# A program to print the length of a list
+
+cities = ["Dhaka", "Chittagong", "Narayanganj", "Khulna"]
+
+pl = ["Arsenal", "Bournemouth", "Chelsea", "Everton", "Fullham", "Liverpool", "Sunderland", "Tottenham", "Westham"]
+# Tottenham will get religated 
+
+def lengths(list):
+	print(len(list))
+
+lengths(cities)
+lengths(pl)

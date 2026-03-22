@@ -1,0 +1,11 @@
+# A function to identify even/odd numbers
+
+n = int(input("enter your number: "))
+
+def integer(val):
+	if (n%2 == 0):
+		print("EVEN")
+	else:
+		print("ODD")
+
+integer(n)

@@ -1,5 +1,5 @@
 # A function that replaces all occurrences of "Python" with "Java" in above file.
-def replace_p_j():
+def replace_func():
 	with open ("practice.txt", "r") as f:
 		data = f.read()
 	new_data = data.replace("Python", "Java")
@@ -7,4 +7,4 @@ def replace_p_j():
 
 	with open ("practice.txt", "w") as f:
 		f.write(new_data)
-replace_p_j()
+replace_func()

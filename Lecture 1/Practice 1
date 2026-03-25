@@ -1,5 +1,0 @@
-# A program to input two numbers and print their sum.
-
-a = int(input("First Number: "))
-b = int(input("Second Number: "))
-print("sum = ", a+b)

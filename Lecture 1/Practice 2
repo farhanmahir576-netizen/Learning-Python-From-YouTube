@@ -1,4 +1,0 @@
-A program to input side of a square and print its area.
-
-s = int(input("side of square: "))
-print("area of square: ", s*s)

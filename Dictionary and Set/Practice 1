@@ -1,0 +1,7 @@
+# A program to store following word meanings in a Python dictionary
+
+dictionary = {
+"cat" : "a small animal",
+"table" : ["a piece of furniture", "list of facts and figures"]
+}
+print(dictionary)

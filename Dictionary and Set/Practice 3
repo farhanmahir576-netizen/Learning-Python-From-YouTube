@@ -1,0 +1,14 @@
+# A program to enter marks of three subjects from the user and store them in a dictionary
+
+marks = {}
+
+x = int(input("enter phy: "))
+marks.update({"phy" : x})
+
+y = int(input("enter math: "))
+marks.update({"math" : x})
+
+z = int(input("enter chem: "))
+marks.update({"chem" : x})
+
+print(marks)
